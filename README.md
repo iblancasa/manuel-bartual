@@ -8,6 +8,12 @@ Do you know the best Twitter's thread ever?
 
 This small tool gets the reactions about the [Manuel Bartual's thread](https://twitter.com/ManuelBartual/status/899719483752935426).
 
+### What is shown?
+
+The output is in CSV format but without headers.
+< positive ratio >,< negative ratio >,< language >, < location >
+
+
 ## How to run
 You need the Twitter API keys ([get your Twitter API keys from this link](https://apps.twitter.com/)). Then, set the following environment variables:
 * ACCESS_TOKEN
