@@ -17,7 +17,7 @@ The output is in CSV format but without headers.
 ## How to run
 You need the Twitter API keys ([get your Twitter API keys from this link](https://apps.twitter.com/)). Then, set the following environment variables:
 * ACCESS_TOKEN
-* ACCES_TOKEN_SECRET
+* ACCESS_TOKEN_SECRET
 * CONSUMER_KEY
 * CONSUMER_SECRET
 
