@@ -14,15 +14,11 @@ from tweepy import OAuthHandler
 from tweepy import Stream
 from textblob import TextBlob as tb
 from textblob.sentiments import NaiveBayesAnalyzer
-# import nltk
 
 access_token = os.environ['ACCESS_TOKEN']
 access_token_secret = os.environ['ACCES_TOKEN_SECRET']
 consumer_key = os.environ['CONSUMER_KEY']
 consumer_secret = os.environ['CONSUMER_SECRET']
-
-# Only run the first time
-# nltk.download()
 
 
 class StdOutListener(StreamListener):
