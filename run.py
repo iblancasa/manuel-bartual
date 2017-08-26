@@ -4,7 +4,7 @@ Did you read the thread about the Manuel's vacations?
 https://twitter.com/ManuelBartual/status/89971948375293542
 
 Get the sentiments of the users in Twitter about the
-the story that thrilled Spilberg.
+the story that thrilled Spielberg.
 """
 import re
 import sys
